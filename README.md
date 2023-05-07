@@ -3,7 +3,7 @@
 <img style="display: flex; margin: 0 5px; justify-self:center; align-self:center" src="https://lh3.googleusercontent.com/K38ZDP4FQFeWjzfatCAaaD1ASuUcGOpjtfZlf2PBbB4MeIsbes48X2m8dFGQNfcWDbFWPrUl_Xm2D2qfWH8u_wcql5CsRDGID5MW9HkxHULoFxVyxE1ZITQUtYVo6D7agQI-diBe2LUlLnjX8XqPw7BrOOScc_9Wmxjezq1LYhBDcyG01jhyNN8ABD7RDWQ_DGP25sGyHPolFYX89Cux5JRdCU1mfV1KdRT18VrXDTPDYiNQQTIY2H-w0tJC9KNq1dvZ_Y93SWw3PSZKSe8IAU4M5HhF6xd0DLu61wJShItMzukOfvlyBYwj096AirW8Pj6ycxIx67asuyq9Fi5EinBa7XXuJyEzMaYYmAMM7MQhN857NXOhk7LHcrFX5RSOeap1jbOM4461fTlM3wg9vUJxNHZxi1sx3WLv9pXlVHK89OCp90n3QkLYE5q-pgTZHag53FZ9uxRskJC3xjVwef7KNmCIT0llwoKFdDWvvIJobD8CI4IpOG57PiEaMUMyZoJA8mo_wxNTXQTj_pAtxfwH6nfH7rAVDr2zKIqiRQcaw8p9MW_VmJbVRL3HFtUURZJ6BPl5mBP6OOxcGbb8w6bZdXObjKv-lp2OX2AoJ3w82SxvVkQ5NDV1T3B2M37id-oXbJNw_0ZNkcGCkSLdt3mrUWzsXiZpsBFZrxKoYM0CdMdrPClH-nJxf0VHhkuY6E2kyUyVJQ2eqFTjE8RO3alaqMJXcCR_pZWBBwtVbc-HZKZ5wvjEmHpQr4FsaiTBUikTse-voLhf0N1s0xfG0_UYwTc08GQwYJGaPODgCIKTbdQ2O4vCIIIsBdrX9iRGNs8VSSNeeQ0E2kKtNPtrgeFebsbwOGpkduKqHRmolO4I-0xjArNxCQCjupEHMq6eyYhOfh2DS8Auqkup0ZNljUQxwb77tKVD8_OVlE--2wrF=w457-h457-s-no?authuser=0" />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashhelloworld" alt="aakashhelloworld" /></a> </p>
 
-- 🌱 I’m currently learning **Advance Node javascript**
+- 🌱 I’m currently learning **Advance node javascript**
 
 - 👨‍💻 All of my projects are available at [https://aakashbandhuaryal.netlify.com/](https://aakashbandhuaryal.netlify.com/)
 
