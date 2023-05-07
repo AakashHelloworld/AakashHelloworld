@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Aakash Bandhu Aryal</h1>
+<h3 align="center">As someone who is passionate about changing the world with my magical power of coding, I possess several powerful mantras, including TypeScript, MERN stack, and many more, which I believe will enable me to work wonders and make a significant impact on the world.</h3>
+<div style="width:100vw; display:flex; justify-content:center;">
+<div style="width:50%">
+</div>
+<img style="display: flex; margin: 0 5px; justify-self:center; align-self:center" src="https://lh3.googleusercontent.com/K38ZDP4FQFeWjzfatCAaaD1ASuUcGOpjtfZlf2PBbB4MeIsbes48X2m8dFGQNfcWDbFWPrUl_Xm2D2qfWH8u_wcql5CsRDGID5MW9HkxHULoFxVyxE1ZITQUtYVo6D7agQI-diBe2LUlLnjX8XqPw7BrOOScc_9Wmxjezq1LYhBDcyG01jhyNN8ABD7RDWQ_DGP25sGyHPolFYX89Cux5JRdCU1mfV1KdRT18VrXDTPDYiNQQTIY2H-w0tJC9KNq1dvZ_Y93SWw3PSZKSe8IAU4M5HhF6xd0DLu61wJShItMzukOfvlyBYwj096AirW8Pj6ycxIx67asuyq9Fi5EinBa7XXuJyEzMaYYmAMM7MQhN857NXOhk7LHcrFX5RSOeap1jbOM4461fTlM3wg9vUJxNHZxi1sx3WLv9pXlVHK89OCp90n3QkLYE5q-pgTZHag53FZ9uxRskJC3xjVwef7KNmCIT0llwoKFdDWvvIJobD8CI4IpOG57PiEaMUMyZoJA8mo_wxNTXQTj_pAtxfwH6nfH7rAVDr2zKIqiRQcaw8p9MW_VmJbVRL3HFtUURZJ6BPl5mBP6OOxcGbb8w6bZdXObjKv-lp2OX2AoJ3w82SxvVkQ5NDV1T3B2M37id-oXbJNw_0ZNkcGCkSLdt3mrUWzsXiZpsBFZrxKoYM0CdMdrPClH-nJxf0VHhkuY6E2kyUyVJQ2eqFTjE8RO3alaqMJXcCR_pZWBBwtVbc-HZKZ5wvjEmHpQr4FsaiTBUikTse-voLhf0N1s0xfG0_UYwTc08GQwYJGaPODgCIKTbdQ2O4vCIIIsBdrX9iRGNs8VSSNeeQ0E2kKtNPtrgeFebsbwOGpkduKqHRmolO4I-0xjArNxCQCjupEHMq6eyYhOfh2DS8Auqkup0ZNljUQxwb77tKVD8_OVlE--2wrF=w457-h457-s-no?authuser=0" />
+</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashhelloworld" alt="aakashhelloworld" /></a> </p>
 
-<!--
-**AakashHelloworld/AakashHelloworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Advance Node javascript**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://aakashbandhuaryal.netlify.com/](https://aakashbandhuaryal.netlify.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **MERN, Javascript, Typescript**
+
+- 📫 How to reach me **aakashbandhuaryal@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
